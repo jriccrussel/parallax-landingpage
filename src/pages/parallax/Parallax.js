@@ -58,13 +58,13 @@ const Parallax = () => {
             <img src={img1} alt="" className="ione" ref={oneRef} />
           </div>
           <div className="w_25 txt text-1">
-            <h1>whitespace is like air.</h1>
+            <h1 className="txt_title">whitespace is like air.</h1>
           </div>
         </div>
 
         <div className="flex">
           <div className="w_66 txt text-2">
-            <h1>it is necessary for <br/> a design to breathe.</h1>
+            <h1 className="txt_title">it is necessary for <br/> a design to breathe.</h1>
           </div>
           <div className="w_33 img two">
             <img src={img2} alt="" className="itwo" ref={twoRef}/>
@@ -84,13 +84,13 @@ const Parallax = () => {
             <img src={img3} alt="" className="ifour" ref={fourRef}/>
           </div>
           <div className="w_25 txt text-3">
-            <h1>whitespace is like air.</h1>
+            <h1 className="txt_title">whitespace is like air.</h1>
           </div>
         </div>
 
         <div className="flex">
           <div className="w_66 txt text-4">
-            <h1>it is necessary for <br/> a design to breathe.</h1>
+            <h1 className="txt_title">it is necessary for <br/> a design to breathe.</h1>
           </div>
           <div className="w_33 img five">
             <img src={img4} alt="" className="ifive" ref={fiveRef}/>

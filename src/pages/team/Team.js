@@ -6,7 +6,7 @@ const Team = () => {
     return (
         <main className="team__body">
             <div className="content">
-                <h1>Meet the team</h1>
+                <h1 className="team_title">Meet the team</h1>
                 
                 <div className="row">
                     {/* {Array.from({length:8}, (_, index) => (

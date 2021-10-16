@@ -4,8 +4,8 @@ import Team from './team/Team'
 const index = () => {
     return (
         <div>
-            {/* <Parallax /> */}
-            <Team />
+            <Parallax />
+            {/* <Team /> */}
         </div>
     )
 }

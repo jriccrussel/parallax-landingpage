@@ -21,10 +21,10 @@ html, body {
     background-attachment: fixed;
 }
 
-h1 {
-    font-family: "Monument Extended";
-    color: #f1Db61;
-    font-weight: 400;
+.txt_title {
+    font-family: "Monument Extended" !important;
+    color: #f1Db61 !important;
+    font-weight: 400 !important;
 }
 
 .container{
